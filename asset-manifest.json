@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animebinge-react/static/css/main.2eb98433.css",
+    "main.js": "/animebinge-react/static/js/main.c4b4e306.js",
+    "index.html": "/animebinge-react/index.html",
+    "main.2eb98433.css.map": "/animebinge-react/static/css/main.2eb98433.css.map",
+    "main.c4b4e306.js.map": "/animebinge-react/static/js/main.c4b4e306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb98433.css",
+    "static/js/main.c4b4e306.js"
+  ]
+}
